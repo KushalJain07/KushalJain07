@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/KushalJain07](https://github.com/KushalJain07)
 
-- 📝 I regularly write articles on [...](...)
+- 📝 I regularly write articles on [...]
 
 - 💬 Ask me about **Djnago, Web2,**
 
